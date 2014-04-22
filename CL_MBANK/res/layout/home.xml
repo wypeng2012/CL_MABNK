@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent" 
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/widget_layout_Action"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <include layout="@layout/action"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/widget_layout_ClientInfo"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <include layout="@layout/client_info"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/widget_layout_AccountInfo"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <include layout="@layout/account_info"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/widget_layout_History"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <include layout="@layout/history"/>
+    </LinearLayout>
+    
+    
+
+</LinearLayout>

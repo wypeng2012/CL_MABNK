@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MBANK</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tip1">account</string>
+    <string name="tip2">password</string>
+    <string name="login">Login</string>
+    <string name="username">UserName</string>
+    <string name="password">PassWord</string>
+    <string name="title_activity_test">MainActivity</string>
+    <string name="balance">balance:</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="type">Type:</string>
+    <string name="address">Address:</string>
+    <string name="phone">Phone:</string>
+    <string name="update">Update:</string>
+    <string name="usernameisnull">UserName can not enmpty</string>
+    <string name="passwordisnull">PassWord can not enmpty</string>
+    <string name="prompt">Prompt</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="setnet">Your netwoek is not open,Now you want to open the network?</string>
+    <string name="loginerro">Your username or password is wrong</string>
+    <string name="logout">LogOut</string>
+    <string name="edit">Edit</string>
+    <string name="sureout">Are you sure logout</string>
+    <string name="loginmessage">You can not login</string>
+    <string name="deposit">Deposit:</string>
+    <string name="withdraw">WithDraw:</string>
+    <string name="submit">Submit</string>
+    <string name="input">Please put in </string>
+    <string name="deposit_success">Deposit Success</string>
+    <string name="deposit_failure">Deposit Failure</string>
+    <string name="deposit_rate">Are you sure to desposit.Your Rate is:</string>
+    <string name="withdraw_success">WithDraw Success</string>
+    <string name="withdraw_failure">WithDraw Failure</string>
+    <string name="bigdraw">Has exceeded the maximum limit</string>
+    <string name="withdraw_rate">Are you sure to withdraw.Your Rate is:</string>
+    <string name="email">Email:</string>
+    <string name="comment">Comment:</string>
+    <string name="updateclient_success">Update Client success</string>
+    <string name="updateclient_failure">Update Client failure</string>
+    <string name="account_balance">Balance:</string>
+    <string name="account_limit">Limit:</string>
+    <string name="activity_amout">Amout</string>
+    <string name="activity_date">Date</string>
+    <string name="activity_commission">Cms</string>
+    <string name="activity_description">Des</string>
+
+</resources>

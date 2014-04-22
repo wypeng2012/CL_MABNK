@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="id">
+        <item>807736118</item>
+        <item>739917110</item>
+    </string-array>
+    <string-array name="psw">
+        <item>*************</item>
+        <item>fsfssdf</item>
+    </string-array>
+</resources>
